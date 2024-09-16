@@ -338,7 +338,7 @@ to the 'trigger' file:
 
 The [if filter] part isn't used in matching commands when removing, so
 leaving that off in a '!' command will accomplish the same thing as
-having it in.
+having it in. | <( <*> _ <*> )> 
 
 The filter syntax is the same as that described in the 'Event
 filtering' section above.
